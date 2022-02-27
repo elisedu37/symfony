@@ -32,8 +32,8 @@ Se connecter
 /login 
 
 Entités disponibles 
-/loan/
-/group/
-/category/
-/user/
-/ressource/
+- /loan/
+- /group/
+- /category/
+- /user/
+- /ressource/
